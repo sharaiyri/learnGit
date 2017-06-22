@@ -31,6 +31,7 @@ public class CalculateCircleAreaExample {
 		{
 				System.out.println("IO Error :" + ioe);
 				System.exit(0);
+				System.exit(0);
 		}
 	   
 		/*
