@@ -1,1 +1,0 @@
-rami is nerd
