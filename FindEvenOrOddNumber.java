@@ -19,10 +19,11 @@ public class FindEvenOrOddNumber {
 			 * even, otherwise it is odd.
 			 */
 			 
-			 if(numbers[i]%2 == 0)
+			 if(numbers[i]%2 == 0) {
 				System.out.println(numbers[i] + " is even number.");
-			 else
-				System.out.println(numbers[i] + " is odd number.");
+				continue;
+			 }
+			System.out.println(numbers[i] + " is odd number.");
 		}
 	}
 }
