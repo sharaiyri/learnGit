@@ -15,23 +15,15 @@ public class CalculateCircleAreaExample {
 		int radius = 0;
 		System.out.println("Please enter radius of a circle");
 	   
-		try
-		{
-				//get the radius from console
-				BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-				radius = Integer.parseInt(br.readLine());
+		try {
+			//get the radius from console
+			BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+			radius = Integer.parseInt(br.readLine());
 		}
-		//if invalid value was entered
-		catch(NumberFormatException ne)
-		{
-				System.out.println("Invalid radius value" + ne);
-				System.exit(0);
-		}
-		catch(IOException ioe)
-		{
-				System.out.println("IO Error :" + ioe);
-				System.exit(0);
-				System.exit(0);
+		catch(NumberFormatException ne | IOException ioe) {
+			//if invalid value was entered	
+			System.out.println("Invalid radius value" + ne);
+			System.exit(0);
 		}
 	   
 		/*
