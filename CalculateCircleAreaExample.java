@@ -36,5 +36,10 @@ public class CalculateCircleAreaExample {
 		double area = Math.PI * radius * radius;
 	   
 		System.out.println("Area of a circle is " + area);
+		System.out.println("Calculating area using a method"+areaOfTheCircle(area));
+	}
+
+	public double areaOfTheCircle(double areaLocal){
+		return areaLocal;
 	}
 }
