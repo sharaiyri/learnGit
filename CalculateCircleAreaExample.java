@@ -22,7 +22,7 @@ public class CalculateCircleAreaExample {
 		}
 		catch(NumberFormatException ne | IOException ioe) {
 			//if invalid value was entered	
-			System.out.println("Invalid radius value" + ne);
+			System.out.println("Invalid radius value+Florin_commitIncremeent" + ne+"posible conflict situation: Florin:commitincrement");
 			System.exit(0);
 		}
 	   
@@ -36,5 +36,10 @@ public class CalculateCircleAreaExample {
 		double area = Math.PI * radius * radius;
 	   
 		System.out.println("Area of a circle is " + area);
+		System.out.println("Calculating area using a method"+areaOfTheCircle(area));
+	}
+
+	public double areaOfTheCircle(double areaLocal){
+		return areaLocal;
 	}
 }
