@@ -22,7 +22,7 @@ public class CalculateCircleAreaExample {
 		}
 		catch(NumberFormatException ne | IOException ioe) {
 			//if invalid value was entered	
-			System.out.println("Invalid radius value+Florin" + ne+"posible conflict situation: Florin");
+			System.out.println("Invalid radius value+Florin_commitIncremeent" + ne+"posible conflict situation: Florin:commitincrement");
 			System.exit(0);
 		}
 	   
