@@ -21,6 +21,7 @@ public class FindEvenOrOddNumber {
 			 
 			 if(numbers[i]%2 == 0) {
 				System.out.println(numbers[i] + " is even number.");
+				System.out.println("Added new text here.");
 				continue;
 			 }
 			System.out.println(numbers[i] + " is odd number.");
