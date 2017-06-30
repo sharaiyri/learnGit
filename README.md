@@ -1,6 +1,14 @@
 # learnGit
 This is a remote repository. It is intended for learning git best practices.
-I've learned more about rebase
-12321312321312321
-petrutaaaaa
-Batman, the dark Knight
+
+What I have learned here ?
+What is local repository
+What is remote repository
+what is a branch
+What is a commit
+How to work in such way that I don't break anyone else work.
+I have learned more about rebase
+I have also learned how to merge a branch
+I have learned that merging in a non-fast-forward way is much better than merging fast forward.
+And many more ... ;)
+
