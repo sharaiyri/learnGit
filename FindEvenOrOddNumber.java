@@ -24,6 +24,8 @@ public class FindEvenOrOddNumber {
 				continue;
 			 }
 			System.out.println(numbers[i] + " is odd number.");
+			System.out.println(numbers[i] + " is odd number.");
+			System.out.println(numbers[i] + " is odd number.");
 		}
 	}
 }
