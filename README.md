@@ -12,3 +12,4 @@ I have also learned how to merge a branch
 I have learned that merging in a non-fast-forward way is much better than merging fast forward.
 And many more ... ;)
 
+The second commit, this time in the README.MD file
