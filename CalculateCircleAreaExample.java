@@ -42,4 +42,4 @@ public class CalculateCircleAreaExample {
 	public double areaOfTheCircle(double areaLocal){
 		return areaLocal;
 	}
-}
+}//a simple comment in a java class
