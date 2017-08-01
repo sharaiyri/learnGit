@@ -29,4 +29,4 @@ public class FindEvenOrOddNumber {
 			System.out.println(numbers[i] + " is odd number.");
 		}
 	}
-}
+}Nu folositi acesti programel la ruleta! O sa pierdeti toti BANIIgit checkout -b oSaAvetiConflictegit checkout -b oSaAvetiConflicte!
