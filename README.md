@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # learnGit
 This is a remote repository. It is intended for learning git best practices.
 
@@ -15,3 +16,4 @@ And many more ... ;)
 The second commit, this time in the README.MD file
 A change
 Hello world again
+new message in Readme
