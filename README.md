@@ -13,3 +13,4 @@ I have learned that merging in a non-fast-forward way is much better than mergin
 And many more ... ;)
 
 The second commit, this time in the README.MD file
+A change
