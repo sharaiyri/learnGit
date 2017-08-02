@@ -24,7 +24,10 @@ public class HelloWorld {
         System.out.println("Hello, World!! You are great! Petruta is cool ! Everyone is cool !!!");
 		}
     }
-
+	
+	public void printOut(String stringToPrint) {
+		System.out.println("Hello, World!");
+	}
 }
 
 //Mi foame
