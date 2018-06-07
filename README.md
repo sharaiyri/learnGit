@@ -1,1 +1,1 @@
-Message
+This is the new message
