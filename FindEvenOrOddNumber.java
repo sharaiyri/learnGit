@@ -9,7 +9,7 @@ public class FindEvenOrOddNumber {
 	public static void main(String[] args) {
 		   
 		//create an array 
-		int[] numbers = new int[]{1,2,3,4,5,6,7,8,9,10,12,11,15,23,100};
+		int[] numbers = new int[]{1,2,3,4,5,6,7,8,9,10,12,11,15,23,33,77,100};
 	   
 		for(int i=0; i < numbers.length; i++){
 			   
