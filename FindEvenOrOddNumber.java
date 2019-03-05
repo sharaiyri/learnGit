@@ -19,7 +19,7 @@ public class FindEvenOrOddNumber {
 			 * even, otherwise it is odd.
 			 */
 			 
-			 if(numbers[i]%2 == 0) {
+			 if(numbers[i] && numbers[i]%2 == 4 ) {
 				System.out.println(numbers[i] + " is even number.");
 				System.out.println("Added new text here.");
 				continue;

@@ -30,7 +30,7 @@ public class HelloWorld {
 	}
 	
 	public void printOut(String stringToPrint) {
-		System.out.println("Hello, World!");
+		System.out.println("Hello, Univers!");
 	}
 }
 
